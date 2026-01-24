@@ -1,4 +1,4 @@
-## Hello 👋 I'm <Keerthana K>
+## Hello 👋 I'm Keerthana K
 
 I'm a final-year Artificial Intelligence and Data Science student who enjoys learning how software actually works — by building things, breaking them, and improving them one step at a time.
 
@@ -8,10 +8,10 @@ I'm a final-year Artificial Intelligence and Data Science student who enjoys lea
 - 🤖 Experimenting with AI-assisted coding and workflows
 - 🌱 Learning continuously through hands-on projects
 
-### I code in
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" />  
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/tensorflow.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+### 💻 Languages & Technologies I Code In
+  <img src="https://img.icons8.com/color/48/python.png" alt="Python"/><img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java"/><img src="https://img.icons8.com/color/48/html-5.png" alt="HTML"/><img src="https://img.icons8.com/color/48/css3.png" alt="CSS"/><img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript"/><img src="https://img.icons8.com/color/48/tensorflow.png" alt="TensorFlow"/><img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL"/>
 
-### IDE and Tools I Use
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/>  <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/>  <img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> <img height="50" src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white"/>
+---
+### 🛠️ IDEs & Tools I Use
+  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code"/><img src="https://img.icons8.com/color/48/pycharm.png" alt="PyCharm"/><img src="https://img.icons8.com/color/48/git.png" alt="Git"/><img src="https://img.icons8.com/officel/48/java-eclipse.png" alt="Eclipse"/>
+
